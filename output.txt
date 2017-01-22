@@ -1,0 +1,22 @@
+The original vectors are:
+The vector's x = 1.000000 
+The vector's y = 1.000000
+The vector's z = 1.000000
+The vector's length = 1.732051
+The vector's x = 1.000000 
+The vector's y = 1.000000
+The vector's z = 1.000000
+The vector's length = 1.732051
+The sum of vectors is:
+The vector's x = 2.000000 
+The vector's y = 2.000000
+The vector's z = 2.000000
+The vector's length = 3.464102
+The vectors dot product = 3.000000The vector's x = 0.577350 
+The vector's y = 0.577350
+The vector's z = 0.577350
+The vector's length = 1.732051
+The vector's x = 0.577350 
+The vector's y = 0.577350
+The vector's z = 0.577350
+The vector's length = 1.732051
